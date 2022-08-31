@@ -7,4 +7,5 @@
 ## Açıklama
 İndex.html içerisinde açıklama satırları bulunmaktadır. Açıklama satırlarını inceleyerek nerede ne yaptığımızı inceleyebilirsiniz.
 
+[patikadevlink](https://app.patika.dev/mertagrali)
 
