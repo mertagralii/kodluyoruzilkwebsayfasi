@@ -5,6 +5,6 @@
 ![Web Sitemizin görüntüsü](https://www.upload.ee/image/14464170/Screenshot_1.jpg)
 
 ## Açıklama
-İndex.html içerisinde Açıklama satırları bulunmaktadır. Açıklama satırlarını inceleyerek nerede ne yaptığımızı inceleyebilirsiniz.
+İndex.html içerisinde açıklama satırları bulunmaktadır. Açıklama satırlarını inceleyerek nerede ne yaptığımızı inceleyebilirsiniz.
 
 
