@@ -15,3 +15,5 @@ Patika.dev'in Başlangıç Seviye Frontend Web Development Patikası eğitiminde
 -Sevdiğim ve Önerdiğim kitaplar başlığı altında kitapları liste halinde sıraladım.
 - Kitapların başlıklarına www.goodreads.com'da bulunan yerlerinin linklerini yerleştirdik.
 - Kitapların Hakkında bir başlık ekledik. Bu başlıkta kitaplar hakkında bilgiler ve görseller bulunmakta.
+
+[patikadevlink](https://app.patika.dev/mertagrali)
